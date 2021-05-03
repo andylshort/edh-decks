@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Breya, Etherium Shaper</deckname>
+    <comments>Artifact- and token-based value, ETBs, and recursion, leaning towards aggro/&quot;go wide&quot;.</comments>
+    <zone name="main">
+        <card number="1" name="Breya, Etherium Shaper"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Ancient Den"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Great Furnace"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="1" name="Spire of Industry"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Metalworker"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Scrap Mastery"/>
+        <card number="1" name="Chief Engineer"/>
+        <card number="1" name="Daretti, Scrap Savant"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Dispatch"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Goblin Welder"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Storm the Vault"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Master Transmuter"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Sharuum the Hegemon"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Clock of Omens"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Glimmervoid"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Saheeli's Directive"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="1" name="Grand Architect"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Chromatic Orrery"/>
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="1" name="Alibou, Ancient Witness"/>
+        <card number="1" name="Alpine Meadow"/>
+        <card number="1" name="Glacial Floodplain"/>
+        <card number="1" name="Ice Tunnel"/>
+        <card number="1" name="Snowfield Sinkhole"/>
+        <card number="1" name="Sulfurous Mire"/>
+        <card number="1" name="Volatile Fjord"/>
+        <card number="1" name="Bronze Guardian"/>
+        <card number="1" name="Metallic Rebuke"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Witching Well"/>
+        <card number="1" name="Filigree Familiar"/>
+        <card number="1" name="Magister Sphinx"/>
+        <card number="1" name="Sanctum Gargoyle"/>
+        <card number="1" name="Colossus of Akros"/>
+        <card number="1" name="Daretti, Ingenious Iconoclast"/>
+        <card number="1" name="Tezzeret, Master of the Bridge"/>
+        <card number="1" name="Arcanist's Owl"/>
+        <card number="1" name="Goblin Engineer"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Master of Etherium"/>
+        <card number="1" name="The Immortal Sun"/>
+        <card number="1" name="Darksteel Juggernaut"/>
+        <card number="1" name="Padeem, Consul of Innovation"/>
+        <card number="1" name="Thoughtcast"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Reprocess"/>
+        <card number="1" name="Tezzeret, Artifice Master"/>
+        <card number="1" name="War Report"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Scholar of the Lost Trove"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Hour of Reckoning"/>
+    </zone>
+</cockatrice_deck>

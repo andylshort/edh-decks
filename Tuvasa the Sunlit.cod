@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Tuvasa the Sunlit</deckname>
+    <comments>Bantchantress Aura voltron.</comments>
+    <zone name="main">
+        <card number="1" name="Tuvasa the Sunlit"/>
+        <card number="1" name="Steel of the Godhead"/>
+        <card number="1" name="Semblance Anvil"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Utopia Sprawl"/>
+        <card number="1" name="Privileged Position"/>
+        <card number="1" name="Enchanted Evening"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Bruna, Light of Alabaster"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="4" name="Island"/>
+        <card number="6" name="Forest"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Estrid's Invocation"/>
+        <card number="1" name="Estrid, the Masked"/>
+        <card number="1" name="Calix, Destiny's Hand"/>
+        <card number="1" name="Oath of Teferi"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Nylea's Colossus"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Verduran Enchantress"/>
+        <card number="1" name="Heliod, God of the Sun"/>
+        <card number="1" name="Creeping Renaissance"/>
+        <card number="1" name="Wargate"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Bant Charm"/>
+        <card number="1" name="Thirst for Meaning"/>
+        <card number="1" name="Overgrowth"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Verdant Haven"/>
+        <card number="1" name="Hydra's Growth"/>
+        <card number="1" name="Dawn's Reflection"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Market Festival"/>
+        <card number="1" name="Alpha Authority"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Unflinching Courage"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Serra's Embrace"/>
+        <card number="1" name="Daybreak Coronet"/>
+        <card number="1" name="Eel Umbra"/>
+        <card number="1" name="Octopus Umbra"/>
+        <card number="1" name="Confiscate"/>
+        <card number="1" name="Frogify"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Aura of Silence"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Finest Hour"/>
+        <card number="1" name="Frozen Aether"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Mirrormade"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Forge of Heroes"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Helm of the Gods"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Tamiyo, Field Researcher"/>
+        <card number="1" name="Leyline of Anticipation"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Emry</deckname>
+    <comments>IRL</comments>
+    <zone name="main">
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Aether Spellbomb"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Altar of the Brood"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Codex Shredder"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mishra's Bauble"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Urza's Bauble"/>
+        <card number="1" name="Witching Well"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Chakram Retriever"/>
+        <card number="1" name="Chief Engineer"/>
+        <card number="1" name="Diligent Excavator"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Grand Architect"/>
+        <card number="1" name="Memnite"/>
+        <card number="1" name="Metalworker"/>
+        <card number="1" name="Mirran Spy"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Riddlesmith"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Artificer's Intuition"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Mirrodin Besieged"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Secrets of the Dead"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Dramatic Reversal"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Whir of Invention"/>
+        <card number="1" name="Jace, Wielder of Mysteries"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Riptide Laboratory"/>
+        <card number="21" name="Island"/>
+        <card number="1" name="Grinding Station"/>
+    </zone>
+</cockatrice_deck>
