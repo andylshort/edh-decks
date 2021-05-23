@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>The Ur-Dragon (Everything Tribal + Combat)</deckname>
+    <comments>Godo gets Nim Deathmantle</comments>
+    <zone name="main">
+        <card number="1" name="Godo, Bandit Warlord"/>
+        <card number="1" name="The Ur-Dragon"/>
+        <card number="1" name="Scion of the Ur-Dragon"/>
+        <card number="1" name="Haakon, Stromgald Scourge"/>
+        <card number="1" name="Atla Palani, Nest Tender"/>
+        <card number="1" name="Amoeboid Changeling"/>
+        <card number="1" name="Avian Changeling"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Graveshifter"/>
+        <card number="1" name="Impostor of the Sixth Pride"/>
+        <card number="1" name="Guardian Gladewalker"/>
+        <card number="1" name="Irregular Cohort"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Mistwalker"/>
+        <card number="1" name="Moritte of the Frost"/>
+        <card number="1" name="Morophon, the Boundless"/>
+        <card number="1" name="Mothdust Changeling"/>
+        <card number="1" name="Nameless Inversion"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Shapesharer"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Unsettled Mariner"/>
+        <card number="1" name="Valiant Changeling"/>
+        <card number="1" name="Venomous Changeling"/>
+        <card number="1" name="Nim Deathmantle"/>
+        <card number="1" name="Varina, Lich Queen"/>
+        <card number="1" name="Najeela, the Blade-Blossom"/>
+        <card number="1" name="Ingenious Infiltrator"/>
+        <card number="1" name="Cryptic Gateway"/>
+        <card number="1" name="Cover of Darkness"/>
+        <card number="1" name="Spellstutter Sprite"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Murmuring Bosk"/>
+        <card number="1" name="Haven of the Spirit Dragon"/>
+        <card number="1" name="Hofri Ghostforge"/>
+        <card number="1" name="Risen Reef"/>
+        <card number="1" name="Harabaz Druid"/>
+        <card number="1" name="Gemhide Sliver"/>
+        <card number="1" name="Manaweft Sliver"/>
+        <card number="1" name="Pyre of Heroes"/>
+        <card number="1" name="He Who Hungers"/>
+        <card number="1" name="Magda, Brazen Outlaw"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Cloudshredder Sliver"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Cateran Summons"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Knight Exemplar"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Linvala, Keeper of Silence"/>
+        <card number="1" name="Contested Cliffs"/>
+        <card number="1" name="Beastcaller Savant"/>
+        <card number="1" name="Runed Stalactite"/>
+        <card number="1" name="Paradise Mantle"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="The Bears of Littjara"/>
+        <card number="1" name="Arcane Adaptation"/>
+        <card number="1" name="Conspiracy"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Basal Sliver"/>
+        <card number="1" name="Birthing Pod"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Dromoka, the Eternal"/>
+        <card number="1" name="Kolaghan, the Storm's Fury"/>
+        <card number="1" name="Korvold, Fae-Cursed King"/>
+        <card number="1" name="Silumgar, the Drifting Death"/>
+        <card number="1" name="Utvara Hellkite"/>
+        <card number="1" name="Rooftop Storm"/>
+        <card number="1" name="Spawning Kraken"/>
+        <card number="1" name="Stoneforge Masterwork"/>
+        <card number="1" name="Runed Stalactite"/>
+        <card number="1" name="Reaper King"/>
+        <card number="1" name="Unesh, Criosphinx Sovereign"/>
+        <card number="1" name="Ayula, Queen Among Bears"/>
+        <card number="1" name="Rick, Steadfast Leader"/>
+        <card number="1" name="Drogskol Captain"/>
+        <card number="1" name="Jarad's Orders"/>
+        <card number="1" name="Peer Pressure"/>
+        <card number="1" name="Artificial Evolution"/>
+        <card number="1" name="Skarrg, the Rage Pits"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep"/>
+        <card number="1" name="Griffin Canyon"/>
+        <card number="1" name="Knowledge Exploitation"/>
+        <card number="1" name="Thieves' Fortune"/>
+        <card number="1" name="Boneyard Scourge"/>
+        <card number="1" name="Bladewing's Thrall"/>
+        <card number="1" name="Dragon Broodmother"/>
+    </zone>
+</cockatrice_deck>
