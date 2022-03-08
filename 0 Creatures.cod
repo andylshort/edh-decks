@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>0 Creatures</deckname>
+    <comments>Commander: Genju of the Realm</comments>
+    <zone name="main">
+        <card number="1" name="Batterbone"/>
+        <card number="1" name="Batterskull"/>
+        <card number="1" name="Bonehoard"/>
+        <card number="1" name="Flayer Husk"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="1" name="Lashwrithe"/>
+        <card number="1" name="Mortarpod"/>
+        <card number="1" name="Necropouncer"/>
+        <card number="1" name="Nettlecyst"/>
+        <card number="1" name="Scytheclaw"/>
+        <card number="1" name="Sickleslicer"/>
+        <card number="1" name="Skinwing"/>
+        <card number="1" name="Strandwalker"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Cave of the Frost Dragon"/>
+        <card number="1" name="Celestial Colonnade"/>
+        <card number="1" name="Creeping Tar Pit"/>
+        <card number="1" name="Den of the Bugbear"/>
+        <card number="1" name="Dread Statuary"/>
+        <card number="1" name="Faceless Haven"/>
+        <card number="1" name="Faerie Conclave"/>
+        <card number="1" name="Forbidding Watchtower"/>
+        <card number="1" name="Frostwalk Bastion"/>
+        <card number="1" name="Ghitu Encampment"/>
+        <card number="1" name="Hall of Storm Giants"/>
+        <card number="1" name="Hissing Quagmire"/>
+        <card number="1" name="Hive of the Eye Tyrant"/>
+        <card number="1" name="Hostile Desert"/>
+        <card number="1" name="Inkmoth Nexus"/>
+        <card number="1" name="Lair of the Hydra"/>
+        <card number="1" name="Lavaclaw Reaches"/>
+        <card number="1" name="Lumbering Falls"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Nantuko Monastery"/>
+        <card number="1" name="Needle Spires"/>
+        <card number="1" name="Raging Ravine"/>
+        <card number="1" name="Shambling Vent"/>
+        <card number="1" name="Spawning Pool"/>
+        <card number="1" name="Stalking Stones"/>
+        <card number="1" name="Stirring Wildwood"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Treetop Village"/>
+        <card number="1" name="Wandering Fumarole"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Genju of the Realm"/>
+        <card number="1" name="Weatherseed Totem"/>
+        <card number="1" name="Thunder Totem"/>
+        <card number="1" name="Foriysian Totem"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mobilized District"/>
+        <card number="1" name="Atarka Monument"/>
+        <card number="1" name="Azorius Keyrune"/>
+        <card number="1" name="Boros Keyrune"/>
+        <card number="1" name="Chimeric Sphere"/>
+        <card number="1" name="Chronatog Totem"/>
+        <card number="1" name="Darksteel Brute"/>
+        <card number="1" name="Dimir Keyrune"/>
+        <card number="1" name="Dromoka Monument"/>
+        <card number="1" name="Ensouled Scimitar"/>
+        <card number="1" name="Fountain of Ichor"/>
+        <card number="1" name="Glint Hawk Idol"/>
+        <card number="1" name="Golgari Keyrune"/>
+        <card number="1" name="Gruul Keyrune"/>
+        <card number="1" name="Gruul War Plow"/>
+        <card number="1" name="Guardian Idol"/>
+        <card number="1" name="Haunted Plate Mail"/>
+        <card number="1" name="Izzet Keyrune"/>
+        <card number="1" name="Jade Statue"/>
+        <card number="1" name="Killer Cosplay"/>
+        <card number="1" name="Kolaghan Monument"/>
+        <card number="1" name="Mimic"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Mirror of the Forebears"/>
+        <card number="1" name="Mizzium Transreliquat"/>
+        <card number="1" name="Ojutai Monument"/>
+        <card number="1" name="Orzhov Keyrune"/>
+        <card number="1" name="Phyrexian Totem"/>
+        <card number="1" name="Rakdos Keyrune"/>
+        <card number="1" name="Selesnya Keyrune"/>
+        <card number="1" name="Silumgar Monument"/>
+        <card number="1" name="Simic Keyrune"/>
+        <card number="1" name="Stuffed Bear"/>
+        <card number="1" name="Xanthic Statue"/>
+    </zone>
+</cockatrice_deck>

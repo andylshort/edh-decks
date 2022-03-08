@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lathril Elves</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abomination of Llanowar"/>
+        <card number="1" name="Ancient Ziggurat"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Bounty of Skemfar"/>
+        <card number="1" name="Canopy Tactician"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cryptolith Rite"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Elderfang Ritualist"/>
+        <card number="1" name="Elderfang Venom"/>
+        <card number="1" name="Elven Ambush"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Elvish Dreadlord"/>
+        <card number="1" name="Elvish Guidance"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elvish Promenade"/>
+        <card number="1" name="Elvish Warmaster"/>
+        <card number="1" name="Eyeblight Massacre"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="12" name="Forest"/>
+        <card number="1" name="Gilt-Leaf Palace"/>
+        <card number="1" name="Gnarlroot Trapper"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Golgari Findbroker"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Harald Unites the Elves"/>
+        <card number="1" name="Harald, King of Skemfar"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Lathril, Blade of the Elves"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Lys Alana Huntmaster"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Miara, Thorn of the Glade"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Noxious Revival"/>
+        <card number="1" name="Nullmage Shepherd"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Poison-Tip Archer"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Prowess of the Fair"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Quirion Ranger"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Return Upon the Tide"/>
+        <card number="1" name="Rhys the Exiled"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Roots of Wisdom"/>
+        <card number="1" name="Ruthless Winnower"/>
+        <card number="1" name="Shaman of the Pack"/>
+        <card number="1" name="Skemfar Avenger"/>
+        <card number="1" name="Skemfar Shadowsage"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Sylvan Messenger"/>
+        <card number="1" name="Thousand-Year Elixir"/>
+        <card number="1" name="Timberwatch Elf"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Tyvar Kell"/>
+        <card number="1" name="Wirewood Channeler"/>
+        <card number="1" name="Wirewood Lodge"/>
+        <card number="1" name="Wirewood Symbiote"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Moldervine Reclamation"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Patriarch's Bidding"/>
+    </zone>
+</cockatrice_deck>
